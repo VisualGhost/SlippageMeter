@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="min_green">#d1f4eb</color>
+    <color name="max_green">#1aca9c</color>
+    <color name="min_red">#f7d7cf</color>
+    <color name="max_red">#d73611</color>
+    <color name="avatar_bubble_background">#ffffff</color>
+    <color name="avatar_bubble_circle_background">#ffff661e</color>
+    <color name="slippage_text_color">#ffffff</color>
+    <color name="slippage_bubble_background_color">#ff020202</color>
+</resources>

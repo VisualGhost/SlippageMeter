@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlippageView">
+        <attr name="minGreen"                      format="color"/>
+        <attr name="maxGreen"                      format="color"/>
+        <attr name="minRed"                        format="color"/>
+        <attr name="maxRed"                        format="color"/>
+        <attr name="lengthLine"                    format="dimension"/>
+        <attr name="widthLine"                     format="dimension"/>
+        <attr name="scale"                         format="float"/>
+        <attr name="maxValue"                      format="float"/>
+        <attr name="avatarRadius"                  format="dimension"/>
+        <attr name="avatarBubbleBackground"        format="color"/>
+        <attr name="avatarBubbleCircleBackground"  format="color"/>
+        <attr name="avatarBubbleStrokeWidth"       format="dimension"/>
+        <attr name="defaultAvatar"                 format="reference"/>
+        <attr name="slippageTextSize"              format="dimension"/>
+        <attr name="pipsTextSize"                  format="dimension"/>
+        <attr name="slippageTextColor"             format="dimension"/>
+        <attr name="slippageTextPadding"           format="dimension"/>
+        <attr name="slippageBubbleStrokeWidth"     format="dimension"/>
+        <attr name="slippageBubbleBackgroundColor" format="color"/>
+    </declare-styleable>
+</resources>
